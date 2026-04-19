@@ -1,6 +1,6 @@
 # Finance Tracker App 💰
 
-**Take Control of Your Financial Future – Track, Budget, and Save Smarter**  
+🚀 **Live Demo:** [Finance Tracker App](https://quiet-khapse-8da479.netlify.app/)  
 🔐 Demo Credentials: `demo@example.com` / `demo123`
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/finance-tracker-app)
@@ -81,7 +81,7 @@ Built as a production-ready project for a Frontend Intern portfolio, it demonstr
 ---
 
 ## 🛠️ Tech Stack
-
+-----------------------------------------------------------------------------------------
 | Layer          | Tools                                                                 |
 |----------------|-----------------------------------------------------------------------|
 | Framework      | Next.js 14 (App Router), React 18                                    |
@@ -94,8 +94,8 @@ Built as a production-ready project for a Frontend Intern portfolio, it demonstr
 | HTTP Client    | Fetch API / Axios (ready for backend integration)                    |
 | Authentication | Custom auth with localStorage                                        |
 | Deployment     | Vercel / Netlify (recommended)                                       |
+-----------------------------------------------------------------------------------------
 
----
 
 ## 🚀 Getting Started
 
@@ -106,5 +106,5 @@ Built as a production-ready project for a Frontend Intern portfolio, it demonstr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/finance-tracker-app.git
+   git clone https://github.com/harshk9650/finance-tracker-app.git
    cd finance-tracker-app
