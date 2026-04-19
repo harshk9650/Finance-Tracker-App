@@ -1,6 +1,8 @@
 # Finance Tracker App 💰
 
-🚀 **Live Demo:** [Finance Tracker App]([(https://expensetrackeerrrr.netlify.app/)])  
+while try to open this file it in not open # Finance Tracker App 💰
+
+🚀 **Live Demo:** [Finance Tracker App](https://expensetrackeerrrr.netlify.app)  
 🔐 Demo Credentials: `demo@example.com` / `demo123`
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/finance-tracker-app)
