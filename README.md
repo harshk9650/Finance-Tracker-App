@@ -1,6 +1,6 @@
 # Finance Tracker App 💰
 
-🚀 **Live Demo:** [Finance Tracker App](expensetrackeerrrr.netlify.app)  
+🚀 **Live Demo:** [Finance Tracker App]((https://expensetrackeerrrr.netlify.app/))  
 🔐 Demo Credentials: `demo@example.com` / `demo123`
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/finance-tracker-app)
@@ -109,11 +109,6 @@ Built as a production-ready project for a Frontend Intern portfolio, it demonstr
    git clone https://github.com/harshk9650/finance-tracker-app.git
    cd finance-tracker-app
    
------------------------------------------------------------------------------------------
- ## 🌐 Live Preview
-
-> [🔗 Click Here to Try Finance Tracker (expensetrackeerrrr.netlify.app)
------------------------------------------------------------------------------------------
 
 
 
